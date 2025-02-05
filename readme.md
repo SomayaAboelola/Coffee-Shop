@@ -3,12 +3,12 @@
 ## About
 This is a simple website for a coffee shop, built using HTML, CSS, and JavaScript.
 
-## Screenshots
+<a href="https://somayaaboelola.github.io/Coffee-Shop/" target="_blank">**Visit Now** 🚀</a>
+## 📌 Sneak Peek of Main Page 🙈 :
 ![Homepage](images/Home.png)
 ![Aboutpage](images/About.png)
 ![Menupage](images/Menu.png)
-![Gallerypage](images/Gallery.png)
-![ContactPage](images/Contact.png)
+
 
 
 **Features:**
